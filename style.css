@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    
+    
+    }
+    
+
+body {
+    background-image: linear-gradient(#2896AC 70%, #2A8CA0 70%, #394345 5%, #3B3B3B 5%);
+    background-attachment: fixed;
+  
+}
+
+main{
+    
+    width: 100%;
+    display: flex;
+    justify-content:center ;
+    align-items: flex-end;
+    
+}
+.barreira{
+    width: 53%;
+    padding-top: 50%;
+    
+    
+}
+.conteiner{
+   display: flex;
+   justify-content: flex-end;
+   margin-top: 30px;
+}
+.chrome{
+    width: 20%;
+    margin-left: 20px;
+}    
+.edge{
+    width: 20%;
+    
+}
+.textOne{
+    align-items: flex-end;
+    color: white;
+    margin-top: 20px;
+    
+    
+    
+}
+.textoAviso{
+    font-family:'nunito-regular',sans-serif;
+    font-weight: lighter;
+    font-size: smaller;
+    font-size: 20px;
+
+}
+.textOne div h1 span{
+    font-weight: lighter;
+}
+ #top{
+    margin-left:20px ;
+    margin-top: 20px;
+    font-family:'nunito-regular',sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    transform: translateY(15px);
+    
+}
+#botton{
+    margin-top:20px ;
+    margin-left:20px ;
+    transform: translateY(20px);
+    font-family:'nunito-regular',sans-serif;
+    font-size: smaller;
+}
+
+.navegadores{
+    margin-left:20px ;
+    display: flex;
+    transform: translateY(20px);
+    
+    
+}
+#divisor{
+font-size: 19px;
+color: #FFFFFF;
+margin-left: 15px;
+margin-top: 15px;
+font-family:'nunito-regular',sans-serif;
+font-size: smaller;
+font-size: 15px;
+
+
+}
+
+#footer{
+    font-size: 8px;
+    color:#AEAEAE;
+    text-align: center;
+    margin-top: 80px;
+}
+
+
+
